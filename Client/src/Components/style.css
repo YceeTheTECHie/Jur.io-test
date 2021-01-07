@@ -1,0 +1,12 @@
+* {
+  font-family: "Montserrat", sans-serif;
+ 
+}
+body{
+     background-color:rgb(195, 194, 194);
+     margin-top: 1em;
+     justify-content:space-between;
+      display: flex;
+   /* background-color:rgb(199, 223, 233); */
+   line-height: 5px;
+}
